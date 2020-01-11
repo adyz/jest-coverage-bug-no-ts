@@ -9,9 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^24.9.0"
-  },
-  "dependencies": {
-    "istanbul-reports": "file:./local-packages/istanbul-reports-2.2.5.tgz"
+    "jest": "^24.9.0",
+    "istanbul-reports": "file:./local-packages/istanbul-reports-2.2.6.tgz"
   }
 }
